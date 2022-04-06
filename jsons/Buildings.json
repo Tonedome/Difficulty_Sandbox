@@ -59,7 +59,7 @@
 	{
 		"name": "Increased city production",
 		"gold": 1,
-		"production": 1000%,
+		"production": 100,
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 1
